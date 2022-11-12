@@ -1,4 +1,4 @@
-#Perimeter of a rectangle
+#Code for finding Perimeter of a rectangle
 #l = length
 #w = width
 #Formula for perimeter is 2(l + w)
