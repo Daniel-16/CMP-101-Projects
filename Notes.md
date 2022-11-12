@@ -10,4 +10,4 @@
 - Functions, Lists, Syntax and Semantics
 
 Assignment
-    - Write a program to calculate area and perimeter
+    - Write a program to calculate area and perimeter.
