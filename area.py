@@ -3,5 +3,6 @@
 #Where width = w and length = l
 w = int(input("Width of rectangle "))
 l = int(input("Length of rectangle "))
+#Model
 area = w * l
 print(f'Area of rectangle is {area}')
