@@ -11,4 +11,4 @@
 
 Assignment
     - Write a program to calculate area and perimeter.
-
+add 1 to the sum of the results if even. if the two numbers are odd, add 2. if the two are odd and even, add 3
